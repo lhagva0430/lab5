@@ -1,0 +1,31 @@
+nav {
+    background-color: #333; /* Dark background */
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style-type: none; /* Remove bullet points */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Align items in a row */
+    justify-content: space-around; /* Space links evenly */
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: white; /* Link text color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    font-family: Arial, sans-serif;
+    border-radius: 5px;
+    transition: background-color 0.3s; /* Smooth hover effect */
+  }
+  
+  nav ul li a:hover {
+    background-color: #575757; /* Slightly lighter background on hover */
+  }
+  

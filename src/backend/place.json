@@ -1,0 +1,12 @@
+[
+    {
+      "id": "1",
+      "title": "Place 1",
+      "location": { "lat": 12.34, "lng": 56.78 },
+      "explanation": "A beautiful place.",
+      "address": "123 Example St",
+      "image": "/uploads/example-image.jpg",
+      "userId": "admin@example.com"
+    }
+  ]
+  
